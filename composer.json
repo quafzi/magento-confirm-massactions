@@ -1,0 +1,15 @@
+{
+    "name": "Quafzi/ConfirmMassactions",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Add confirmation dialogs to some important adminhtml grid massactions like &#039;cancel_orders&#039;",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Add your name here",
+            "email":"Add your email address here"
+        }
+    ]
+}
