@@ -1,5 +1,5 @@
 {
-    "name": "Quafzi/ConfirmMassactions",
+    "name": "quafzi/magento-confirm-massactions",
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Add confirmation dialogs to some important adminhtml grid massactions like &#039;cancel_orders&#039;",
@@ -8,8 +8,8 @@
     },
     "authors":[
         {
-            "name":"Add your name here",
-            "email":"Add your email address here"
+            "name":"Thomas Birke",
+            "email":"tbirke@netextreme.de"
         }
     ]
 }

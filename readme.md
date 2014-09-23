@@ -5,7 +5,7 @@ Add confirmation dialogs to some important adminhtml grid massactions like &#039
 Facts
 -----
 - version: 1.0.0
-- extension key: Quafzi_ConfirmMassactions
+- composer package name: quafzi/magento-confirm-massactions
 - [extension on GitHub](https://github.com/quafzi/magento-confirm-massactions)
 
 Description
