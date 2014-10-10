@@ -3,8 +3,8 @@
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Add confirmation dialogs to some important adminhtml grid massactions like &#039;cancel_orders&#039;",
-    "require": {
-        "magento-hackathon/magento-composer-installer": "*"
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency for Magento"
     },
     "authors":[
         {
