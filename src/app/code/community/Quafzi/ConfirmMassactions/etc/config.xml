@@ -20,7 +20,7 @@
     <adminhtml>
         <events>
             <core_block_abstract_to_html_before>
-                <!-- unfortunately, there is no specific event for invoice/shipping/creditmemo comments -->
+                <!-- unfortunately, there is no specific event for massaction blocks -->
                 <observers>
                     <spinport_checkout_view_order>
                         <type>singleton</type>
