@@ -30,6 +30,16 @@ Installation Instructions
 1. Install the extension via [Composer](http://getcomposer.org) or unpack the contents of ``src`` directory into your document root.
 2. Clear the cache.
 
+Configuration
+-------------
+
+By default, confirmation is requested for massactions containing strings like
+"cancel" and "delete", which is matched to the option values of the grid's
+massaction dropdown select box.
+
+If you need to add some more confirmation requests, go to System → Configuration → Admin → "Massaction Confirmation Options" and
+add massactions as you want.
+
 Uninstallation
 --------------
 Remove all extension files from your Magento installation
